@@ -1,174 +1,72 @@
 <div align="center">
 
-# 🛡️ aeginity
+<img width="180" src="https://raw.githubusercontent.com/aeginity/.github/main/assets/logo.png">
 
-### Building resilient digital futures.
+# aeginity
 
-[![Security First](https://img.shields.io/badge/Security-First-red?style=for-the-badge)]()
-[![Open Source](https://img.shields.io/badge/Open%20Source-Friendly-blue?style=for-the-badge)]()
-[![Innovation](https://img.shields.io/badge/Innovation-Driven-green?style=for-the-badge)]()
+### Security engineered. Trust earned.
 
-*Cybersecurity • Infrastructure • Cloud Security • Automation*
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Defending+Digital+Assets;Engineering+Secure+Infrastructure;Building+the+Future+of+Cybersecurity" />
+<p>
+<a href="https://aeginity.de"><img src="https://img.shields.io/badge/Website-aeginity.de-0A0A0A?style=for-the-badge"></a>
+<a href="https://github.com/aeginity"><img src="https://img.shields.io/badge/GitHub-Aeginity-171515?style=for-the-badge&logo=github"></a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Aeginity
+## 🛡 Who We Are
 
-**Aeginity** is a cybersecurity-focused technology startup dedicated to helping organizations build secure, resilient, and future-ready infrastructures.
+Aeginity is a cybersecurity company focused on building secure, resilient and modern digital infrastructures.
 
-We combine deep expertise in:
-
-- 🔒 Cybersecurity
-- ☁️ Cloud Security
-- 🌐 Network Security
-- 🛠️ Infrastructure Engineering
-- 🤖 Security Automation
-- 📊 Security Monitoring & Detection
-- 🏢 Enterprise Security Architecture
-
-Our mission is simple:
-
-> **Make enterprise-grade security accessible, scalable, and practical.**
+We help organizations protect critical assets, strengthen operational security and embrace modern security architectures.
 
 ---
 
-## 🎯 Core Principles
+## ⚡ Focus Areas
 
-```text
-┌──────────────────────────┐
-│  Security by Design      │
-├──────────────────────────┤
-│  Zero Trust Mindset      │
-├──────────────────────────┤
-│  Automation First        │
-├──────────────────────────┤
-│  Privacy & Compliance    │
-├──────────────────────────┤
-│  Continuous Improvement  │
-└──────────────────────────┘
-```
+<table>
+<tr>
+<td width="33%">
 
----
-
-## 🏗️ Areas of Expertise
-
-### Network Security
+### 🌐 Network Security
 
 - Next-Generation Firewalls
-- VPN & Secure Remote Access
-- Zero Trust Network Access (ZTNA)
 - Network Segmentation
-- Secure Connectivity
+- Secure Remote Access
+- Zero Trust Networking
 
-### Cloud Security
+</td>
+
+<td width="33%">
+
+### ☁ Cloud Security
 
 - Microsoft Azure
 - Microsoft 365
-- Hybrid Infrastructure
-- Identity & Access Management
-- Cloud Governance
+- Entra ID
+- Identity Protection
 
-### Security Operations
+</td>
+
+<td width="33%">
+
+### 🔍 Security Operations
 
 - Threat Detection
 - Security Monitoring
 - Incident Response
-- Vulnerability Management
 - Security Hardening
 
-### Infrastructure
-
-- Linux & Windows Platforms
-- Virtualization
-- Enterprise Networking
-- High Availability
-- Secure Architecture Design
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Technology Stack
+## 🎯 Our Philosophy
 
-<div align="center">
-
-| Infrastructure | Security | Cloud | Automation |
-|---------------|----------|--------|-----------|
-| Linux | Sophos | Azure | PowerShell |
-| Windows Server | Fortinet | Microsoft 365 | Python |
-| VMware | Microsoft Defender | Entra ID | Ansible |
-| Proxmox | SIEM/XDR | Hybrid Cloud | APIs |
-
-</div>
-
----
-
-## 🛡️ Security Philosophy
-
-```mermaid
-flowchart LR
-
-A[Identify] --> B[Protect]
-B --> C[Detect]
-C --> D[Respond]
-D --> E[Recover]
-E --> A
-```
-
-Security is not a product.
-
-Security is a continuous process.
-
----
-
-## 🌍 Vision
-
-We believe every organization deserves:
-
-- Secure infrastructure
-- Modern identity protection
-- Reliable monitoring
-- Practical security solutions
-- Sustainable cybersecurity strategies
-
----
-
-## 🤝 Collaboration
-
-We welcome collaboration with:
-
-- Enterprises
-- Public Sector Organizations
-- Managed Service Providers
-- Technology Partners
-- Security Researchers
-
----
-
-## 📬 Contact
-
-### General Inquiries
-
-📧 hello@aeginity.com
-
-### Security
-
-📧 security@aeginity.com
-
-### Engineering
-
-📧 engineering@aeginity.com
-
----
-
-<div align="center">
-
-### 🛡️ Aeginity
-
-*Engineering Trust. Securing Tomorrow.*
-
-</div>
+```text
+Trust Nothing
+Verify Everything
+Automate Wherever Possible
